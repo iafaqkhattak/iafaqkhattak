@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is AFAQ and I'm a Software Engineer, from 🇵🇰</h2>
+<h4 align="left">Hi 👋! My name is AFAQ and I'm a Software Engineer, from 🇵🇰.<br>I’m living the dream. I’ve always been a great<br>problem solver, an independent introvert, and a<br>technophile obsessed with the latest devices.<br>I’m familiar with a variety of programming<br>languages, but I’m always adding new skills to<br>my repertoire.</h4>
 
 ###
 
@@ -45,8 +45,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/iafaqkhattak/iafaqkhattak/blob/main/snake.yml" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/iafaqkhattak/count.svg?"  />
+</div>
 
 ###
