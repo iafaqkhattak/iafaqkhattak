@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/iafaqkhattak/iafaqkhattak/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/iafaqkhattak/iafaqkhattak/output/snake.yml" alt="Snake animation" />
 
 ###
